@@ -1,8 +1,6 @@
 # Titulo
-- Meu nome é Tiago, estou cursando BES
-- Meu nome é **Vitor**, estou cursando *ADS*
-- Estudo no `IFSP-SCL`
-- Gosto de filmes de terror e jogos feios...
+- Meu nome é Tiago Catoia, estou cursando Bacharelado em Engenharia de Software no IFSP câmpus de São Carlos
+- Estudo no `IFSP-Câmpus de São Carlos`
 
 ## Tecnologias
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
