@@ -1,5 +1,5 @@
 # Titulo
-- Meu nome é Tiago Catoia, estou cursando Bacharelado em Engenharia de Software no IFSP câmpus de São Carlos
+- Meu nome é Tiago Catoia, estou cursando Bacharelado em Engenharia de Software
 - Estudo no `IFSP-Câmpus de São Carlos`
 
 ## Tecnologias
