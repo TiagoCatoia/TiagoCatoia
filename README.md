@@ -1,4 +1,4 @@
-# Sobre mim 💻
+# Sobre mim 💻🖱️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-catoia-91a176277//)](https://www.linkedin.com/in/tiago-catoia-91a176277/)
 [![Gmail Badge](https://img.shields.io/badge/-tiagocsz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocsz@hotmail.com)](mailto:tiagocsz@hotmail.com)
 
