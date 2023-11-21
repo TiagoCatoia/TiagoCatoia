@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tiagocsz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocsz@hotmail.com)](mailto:tiagocsz@hotmail.com)
 
 - Olá, meu nome é Tiago Catoia 👋 
-- Atualmente estou cursando `Bacharelado em Engenharia de Software` no `Instituto Federal de São Paulo - IFSP`-Câmpus de São Carlos 🎓
+- Atualmente estou cursando `Bacharelado em Engenharia de Software` no `Instituto Federal de São Paulo - IFSP`🎓
 - Sou da cidade de São Carlos-SP 🌎
 
 ## Tecnologias
