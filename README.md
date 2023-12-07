@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-catoia-91a176277//)](https://www.linkedin.com/in/tiago-catoia-91a176277/)
 [![Gmail Badge](https://img.shields.io/badge/-tiagocsz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocsz@hotmail.com)](mailto:tiagocsz@hotmail.com)
 
-- Olá, meu nome é Tiago Catoia 👋 
+- Olá, meu nome é `Tiago Catoia` 👋 
 - Atualmente estou cursando `Bacharelado em Engenharia de Software` no `Instituto Federal de São Paulo - IFSP`🎓
-- Sou da cidade de São Carlos-SP 🌎
+- Sou da cidade de `São Carlos-SP` 🌎
 
 ## Tecnologias
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
