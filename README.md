@@ -22,7 +22,7 @@
 
 <div align="left">
   
-[![Tiago top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCatoia&theme=blue-black)](https://github.com/anuraghazra/github-readme-stats)
+[![Tiago top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCatoia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
  
