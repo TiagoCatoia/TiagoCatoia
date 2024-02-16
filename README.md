@@ -1,5 +1,8 @@
 # About me 👨‍💻
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/tiago-catoia-91a176277/)
+[![Ícone de E-mail](https://img.icons8.com/color/48/000000/email.png)](mailto:tiagocsz@hotmail.com)
+
+
 
 
 - Hello, my name is Tiago Catoia 👋
