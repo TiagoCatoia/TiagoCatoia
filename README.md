@@ -7,7 +7,7 @@
 
 - Hi there, I'm Tiago Catoia! 👋
 - Currently, I'm working towards a Bachelor's degree in Software Engineering at the Federal Institute of São Paulo - IFSP. 🎓
-- I hail from São Carlos, São Paulo. 🌎
+- I reside in São Carlos, São Paulo. 🌎
 
 ## Technologies
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
