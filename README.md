@@ -28,8 +28,5 @@ I'm a Software Engineering student at the Federal Institute of São Paulo (IFSP)
 
 
 <div align="left">
-  
-[![Tiago top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCatoia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
  </div>
  
