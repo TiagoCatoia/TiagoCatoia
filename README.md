@@ -9,13 +9,12 @@ I'm a Software Engineering student at the Federal Institute of São Paulo (IFSP)
 - Currently studying: Bachelor's degree in Software Engineering at IFSP (Expected graduation: 2026).
 - Location: Based in São Carlos, São Paulo 🌍.
 - Technologies I work with: Java, Spring Boot, React, PostgreSQL, Python, and more.
-- Passionate about: Clean code, software architecture, and learning new technologies.
+- Passionate about: Software development, clean code practices, software architecture, and applying agile methodologies.
 
 ## Technologies
 - Languages: Java, JavaScript, TypeScript, Python
-- Frameworks & Libraries: Spring Boot, React, FastAPI, Electron
+- Frameworks & Libraries: Spring Boot, React, FastAPI
 - Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Git, Docker, CI/CD, GitHub Actions, GitLab CI/CD
 
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
