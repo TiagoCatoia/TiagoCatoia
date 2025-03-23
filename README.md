@@ -4,12 +4,21 @@
 
 ## Hi, I'm Tiago Catoia! 👋
 
-I'm a Software Engineering student at the Federal Institute of São Paulo (IFSP) 🎓, passionate about building impactful software solutions.
+I'm a Software Engineering student at the Federal Institute of São Paulo (IFSP) 
 
-- Currently studying: Bachelor's degree in Software Engineering at IFSP (Expected graduation: 2026).
-- Location: Based in São Carlos, São Paulo 🌍.
-- Technologies I work with: Java, Spring Boot, React, PostgreSQL, Python, and more.
-- Passionate about: Software development, clean code practices, software architecture, and applying agile methodologies.
+Location: São Carlos, São Paulo.
+
+Tech stack: I work mostly with Java, Spring Boot, React, PostgreSQL, Python, and other toolss.
+
+Passions: Software development, clean code practices, software architecture, and agile methodologies.
+## Olá, eu sou Tiago Catoia! 👋
+Sou estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP)
+
+Localização: São Carlos, São Paulo.
+
+Tecnologias: Tenho trabalhado principalmente com Java, Spring Boot, React, PostgreSQL, Python e outras ferramentas.
+
+Dedicação: Desenvolvimento de software, boas práticas de código, arquitetura de software e a implementação de metodologias ágeis.
 
 ## Technologies
 - Languages: Java, JavaScript, TypeScript, Python
