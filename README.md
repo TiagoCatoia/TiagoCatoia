@@ -1,40 +1,34 @@
-# About me 👨‍💻
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/tiago-catoia-91a176277/)
-[![Ícone de E-mail](https://img.icons8.com/color/48/000000/email.png)](mailto:tiagocsz@hotmail.com)
+<h1 align="center">Hello, I'm Tiago Catoia 👋</h1>
 
-## Hi, I'm Tiago Catoia! 👋
+<p align="center">
+  <em>Software Engineer</em>
+</p>
 
-I'm a Software Engineering student at the Federal Institute of São Paulo (IFSP) 
+---
 
-Location: São Carlos, São Paulo.
+<p align="center">
+  Software development, clean code practices, software architecture, and agile methodologies
+</p>
 
-Tech stack: I work mostly with Java, Spring Boot, React, PostgreSQL, Python, and other toolss.
+---
 
-Passions: Software development, clean code practices, software architecture, and agile methodologies.
-## Olá, eu sou Tiago Catoia! 👋
-Sou estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP)
+<p align="left">
+  🎓 Pursuing a Bachelor's degree in Software Engineering
+</p>
+<p align="left">
+  🧑‍💻 I enjoy solving real-world problems through code and learning new technologies
+</p>
+<p align="left">
+  💻 Practical experience in both backend and frontend development
+</p>
+  
+---
 
-Localização: São Carlos, São Paulo.
+### 📊 Highlighted Technologies
 
-Tecnologias: Tenho trabalhado principalmente com Java, Spring Boot, React, PostgreSQL, Python e outras ferramentas.
-
-Dedicação: Desenvolvimento de software, boas práticas de código, arquitetura de software e a implementação de metodologias ágeis.
-
-## Technologies
-- Languages: Java, JavaScript, TypeScript, Python
-- Frameworks & Libraries: Spring Boot, React, FastAPI
-- Databases: PostgreSQL, MySQL, MongoDB
-
-[<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://en.cppreference.com/w/c/language)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
-[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
-[<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
-
-
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCatoia&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+</p>
 <div align="left">
  </div>
  
