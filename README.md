@@ -1,27 +1,27 @@
-<h1 align="center">Hello, I'm Tiago Catoia 👋</h1>
+<h1 align="center">Olá, eu sou o Tiago Catoia 👋</h1>
 
 <p align="center">
-  <em>Software Engineer</em>
+  <em>Engenheiro de Software</em>
 </p>
 
 ---
 
 <p align="center">
-  Software development, clean code practices, software architecture, and agile methodologies
+  Desenvolvimento de software, práticas de clean code, arquitetura de software e metodologias ágeis
 </p>
 
 ---
 
 <p align="left">
-  🎓 Pursuing a Bachelor's degree in Software Engineering
+  🎓 Cursando Bacharelado em Engenharia de Software
 </p>
 <p align="left">
-  🧑‍💻 I enjoy solving real-world problems through code and learning new technologies
+  🧑‍💻 Gosto de resolver problemas do mundo real com código e aprender novas tecnologias
 </p>
 <p align="left">
-  💻 Practical experience in both backend and frontend development
+  💻 Experiência prática em desenvolvimento backend e frontend
 </p>
-  
+
 ---
 
 ### 📊 Highlighted Technologies
