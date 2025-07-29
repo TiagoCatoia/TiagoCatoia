@@ -12,6 +12,8 @@
 
 ---
 
+### Sobre
+
 <p align="left">
   🎓 Cursando Bacharelado em Engenharia de Software
 </p>
@@ -24,7 +26,7 @@
 
 ---
 
-### 📊 Highlighted Technologies
+### Principais Tecnologias
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCatoia&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
